@@ -83,27 +83,18 @@ http://localhost:5173
 
 ### Homepage
 
-Add a screenshot of the homepage here.
+<img width="799" height="1053" alt="image" src="https://github.com/user-attachments/assets/2c10fedc-84cb-417b-ab8b-13459c356fb3" />
+
 
 ### Gallery
 
-Add a screenshot of the gallery page here.
+<img width="1274" height="920" alt="image" src="https://github.com/user-attachments/assets/48911a75-6e75-468f-b1db-f42e24f8abf6" />
 
-### Events
-
-Add a screenshot of the events page here.
 
 ### Ticketing
 
-Add a screenshot of the ticketing page here.
+<img width="1670" height="1012" alt="image" src="https://github.com/user-attachments/assets/718a48e2-fca6-4e66-ad7e-79edc96e74b6" />
 
-## Future Improvements
-
-* PostgreSQL integration
-* Docker deployment
-* CI/CD pipeline
-* User profile management
-* Advanced analytics dashboard
 
 ## Authors
 
