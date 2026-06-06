@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Red Bull Air Team",
+    "imagem": "team1.jpg",
+    "descricao": "Equipa de acrobacias aéreas",
+    "data": "15 Fev - 15:00"
+  },
+  {
+    "nome": "F16 Demo",
+    "imagem": "team2.jpg",
+    "descricao": "Demonstração de caças F16",
+    "data": "15 Fev - 17:00"
+  },
+  {
+    "nome": "Patrouille Suisse",
+    "imagem": "team3.jpg",
+    "descricao": "Demonstração de caças Northrop F-5E Tiger II",
+    "data": "16 Fev - 16:00"
+  },
+
+  {
+    "nome": "Força Aérea Portuguesa",
+    "imagem": "team4.jpg",
+    "descricao": "Demonstração da Força Aérea Portuguesa",
+    "data": "16 Fev - 17:00"
+  }
+]
