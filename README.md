@@ -99,3 +99,4 @@ http://localhost:5173
 ## Authors
 
 Daniel Nunes
+Tomás Diogo
